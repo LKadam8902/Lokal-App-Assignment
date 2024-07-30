@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Job"
+         android:id="@+id/homeFragment2"
+        android:icon="@drawable/baseline_feed_24"
+        />
+    <item android:title="Bookmarked"
+         android:id="@+id/jobFragment2"
+        android:icon="@drawable/baseline_favorite_border_24"/>
+</menu>
